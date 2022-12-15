@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tilichim
 - 👀 I’m interested in acoustics, linux, signal processing, machine learning
-- 🌱 I’m currently learning machine learning machine learning machine... 
-- 💞️ I’m looking to collaborate on my Master's thesis.
+- 🌱 I’m currently making the world a better place, if you are naive enough to believe that I can do such things :P
+- 💞️ I’m looking for ways to write better code.
 - 📫 please feel free to contact me: www.tilichi.de
 
 <!---
